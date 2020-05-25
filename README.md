@@ -1,2 +1,2 @@
 # CMPT459-Rental-List-Inquiries
-A Kaggle Competition
+A classification task, predicting the interest level of a rental. (Kaggle Competition)
